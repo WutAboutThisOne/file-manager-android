@@ -1,0 +1,13 @@
+/.gradle/
+/build/
+/app/build/
+/local.properties
+/.idea/
+*.iml
+captures/
+keystore/
+*.jks
+*.password
+keystore.properties
+# Build outputs, release APKs and screenshots are published as GitHub Releases, not committed.
+/dist/

@@ -1,0 +1,36 @@
+File Manager
+Copyright 2026 The project authors
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Not affiliated with or endorsed by Google LLC. Android is a trademark of Google LLC.
+
+------------------------------------------------------------------------------
+Third-party software bundled in the app
+------------------------------------------------------------------------------
+
+libsu (https://github.com/topjohnwu/libsu) - Copyright John Wu. Apache License 2.0.
+zip4j (https://github.com/srikanth-lingala/zip4j) - Copyright Srikanth Reddy Lingala. Apache License 2.0.
+XZ for Java (https://tukaani.org/xz/java.html) - Lasse Collin and contributors. BSD Zero Clause (0BSD).
+AndroidX, Jetpack Compose, Material 3, Material icons, WindowManager, DataStore
+  - Copyright The Android Open Source Project. Apache License 2.0.
+Kotlin standard library and kotlinx.coroutines - Copyright JetBrains s.r.o. and contributors. Apache License 2.0.
+
+The following NOTICE texts are reproduced as required by the Apache License 2.0, section 4(d):
+
+Apache Commons Compress
+Copyright 2002-2024 The Apache Software Foundation
+
+Apache Commons IO
+Copyright 2002-2024 The Apache Software Foundation
+
+Apache Commons Lang
+Copyright 2001-2024 The Apache Software Foundation
+
+Apache Commons Codec
+Copyright 2002-2024 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (https://www.apache.org/).
+
+Full licence texts: app/src/main/assets/licenses/ (also shown on the in-app Licences page).

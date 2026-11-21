@@ -1,0 +1,5 @@
+<resources>
+    <color name="window_bg">#FAF9FF</color>
+    <color name="icon_bg_start">#3550D1</color>
+    <color name="icon_bg_end">#00807F</color>
+</resources>
