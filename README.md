@@ -12,8 +12,14 @@ rooted phone can browse the whole file system.
 
 ## Screenshots
 
-Screenshots are rendered from example data by the Robolectric tests into `dist/screens/`
-(run `./gradlew :app:testDebugUnitTest`). They are attached to GitHub Releases rather than committed.
+| Home | Browser | About |
+|:---:|:---:|:---:|
+| ![Home](docs/screenshots/home.webp) | ![Internal storage](docs/screenshots/browser.webp) | ![About](docs/screenshots/about.webp) |
+
+| Licences | Unfolded |
+|:---:|:---:|
+| ![Open-source licences](docs/screenshots/licences.webp) | ![Unfolded home layout](docs/screenshots/unfolded-home.webp) |
+
 
 ## Features
 
